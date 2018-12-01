@@ -1,4 +1,4 @@
-# React, NET Core, Webpack 
+# React, .NET Core, Webpack 
 
 This application bootstraps react.js from asp.net core mvc app using webpack. Make sure node and npm installed in your machine.
 
