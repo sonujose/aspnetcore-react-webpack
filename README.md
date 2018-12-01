@@ -1,6 +1,7 @@
 ## Analyze your webpack modules
 
 Run
+
 ```cmd
 webpack --profile --json >> stats.json
 ```
